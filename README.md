@@ -3,9 +3,10 @@
 
 ## ÍNDICE
 * [Intro](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#intro-)
-* [¿Que construí?]()
-* [Objetivos del Proyecto]()
-* [¡Link al Demo!]()
+* [¿Que construí?](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD-%EF%B8%8F)
+* [Objetivos del Proyecto](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#objetivos-del-proyecto-
+)
+* [¡Link al Demo!](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#link-al-demo-)
 
 ***
 
@@ -26,4 +27,4 @@ El proyecto está enfocado en la cosntrucción de la interfaz de Google,, tomand
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3, así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
 ## Link al Demo! 💕
-Aquí puedes visualizar mi proyecto terminado:[Clonación de Google] 
+Aquí puedes visualizar mi proyecto terminado:👉 [Clonación de Google](https://github.com/KatyaCabrera/Google-clone)
