@@ -2,8 +2,8 @@
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro✨
 
 ## ÍNDICE
-* [Intro](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#intro)
-* [¿Qué construí?](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#qu%C3%A9-constru%C3%AD)
+* [Intro](#Intro)
+* [¿Qué construí?](#¿Qué construí?)
 * [Objetivo del Proyecto](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#objetivo-del-proyecto)
 * [Link al Demo!](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#link-al-demo)
 
