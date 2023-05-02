@@ -2,10 +2,10 @@
 ###### Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro✨
 
 ## ÍNDICE
-* [Intro](#Intro)
-* [¿Qué construí?](#¿Qué construí?)
-* [Objetivo del Proyecto](#Objetivo del Proyecto)
-* [Link al Demo!](#Link al Demo!)
+* [Intro](#intro)
+* [¿Qué construí?](#qu%C3%A9-constru%C3%AD)
+* [Objetivo del Proyecto](#objetivo-del-proyecto)
+* [Link al Demo!](#link-al-demo)
 
 ***
 
@@ -25,5 +25,5 @@ El proyecto está enfocado en la cosntrucción de la interfaz de Google,, tomand
 ## Objetivo del Proyecto
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3, así como identificar componentes base de un sitio web, para analizarlas y replicarlas.
 
-## Link al Demo!
-Aquí puedes visualizar mi proyecto terminado:👉 [Clonación de Google](https://github.com/KatyaCabrera/Google-clone)
+## ¡Link al Demo!
+Aquí puedes visualizar mi proyecto terminado:👉 [Clonación de Google](https://katyacabrera.github.io/Google-Clone/)
