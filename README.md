@@ -4,8 +4,8 @@
 ## ÍNDICE
 * [Intro](#Intro)
 * [¿Qué construí?](#¿Qué construí?)
-* [Objetivo del Proyecto](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#objetivo-del-proyecto)
-* [Link al Demo!](https://github.com/KatyaCabrera/Google-clone/edit/main/README.md#link-al-demo)
+* [Objetivo del Proyecto](#Objetivo del Proyecto)
+* [Link al Demo!](#Link al Demo!)
 
 ***
 
